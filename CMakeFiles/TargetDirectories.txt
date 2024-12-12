@@ -1,0 +1,3 @@
+/home/fraz/IIITH_Lab_assignments/dsaps/assignment1/Q4/CMakeFiles/rebuild_cache.dir
+/home/fraz/IIITH_Lab_assignments/dsaps/assignment1/Q4/CMakeFiles/edit_cache.dir
+/home/fraz/IIITH_Lab_assignments/dsaps/assignment1/Q4/CMakeFiles/seamcarving.dir
